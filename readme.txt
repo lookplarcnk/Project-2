@@ -1,3 +1,4 @@
 change 1
 change master 2
-change master
+change 3
+change 4
