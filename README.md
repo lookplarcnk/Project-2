@@ -2,9 +2,9 @@
 
 ## TEAM Member ##
 - Wuttipong Sootlek
-- Boonrit Duanghirunphuckdee
+- Boonrit Duanghirunphuckdee (Product Owner)
 - Ammarin Ammararam
-- Ponlachet Kammung (Product Owner)
+- Ponlachet Kammung
 - Supakit Kidmhai
 
 ## Project Description
