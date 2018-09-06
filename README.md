@@ -2,9 +2,9 @@
 
 ## TEAM Member ##
 - Wuttipong Sootlek
-- Boonrit Duanghirunphuckdee (Product Owner)
+- Boonrit Duanghirunphuckdee (Scrum Master)
 - Ammarin Ammararam
-- Ponlachet Kammung
+- Ponlachet Kammung (Process Owner)
 - Supakit Kidmhai
 
 ## Project Description
