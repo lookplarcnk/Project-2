@@ -4,7 +4,7 @@
 - Wuttipong Sootlek
 - Boonrit Duanghirunphuckdee
 - Ammarin Ammararam
-- Ponlachet Kammung
+- Ponlachet Kammung (Product Owner)
 - Supakit Kidmhai
 
 ## Project Description
