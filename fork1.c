@@ -7,7 +7,7 @@ int main( int argc, char *argv[]){
 	int i;
 	
 	if( fork() ){
-		who = "Nutdanai";
+		who = "Ratchaneekorn Chuadee";
 	}
 	else{
 		who = "Child";
